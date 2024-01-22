@@ -1,0 +1,263 @@
+[
+  [
+    {
+      "EquipmentID": "CMRP1",
+      "EquipmentName": "Cortador Tampo Mesa Retangular Pequeno"
+    },
+    {
+      "EquipmentID": "CMRG1",
+      "EquipmentName": "Cortador Tampo Mesa Retangular Grande"
+    },
+    {
+      "EquipmentID": "CTMQ1",
+      "EquipmentName": "Cortador Tampo Mesa Quadrada"
+    }
+  ],
+  [
+    {
+      "MaterialID": "GVT",
+      "MaterialName": "Gaveta"
+    },
+    {
+      "MaterialID": "MECAJA",
+      "MaterialName": "Mesa com Cadeira Jantar"
+    },
+    {
+      "MaterialID": "ML3X2",
+      "MaterialName": "Mesa Luxo 3m x 2m"
+    },
+    {
+      "MaterialID": "MQ1X1",
+      "MaterialName": "Mesa Quadrada 1m x 1m"
+    }
+  ],
+  [
+    {
+      "PurchaseOrderID": 12478,
+      "DeliveryDate": "07/06/2018",
+      "Supplier": "Konmatfix",
+      "MaterialID": "PRF",
+      "MaterialName": "Parafuso no 8",
+      "Quantity": 2000,
+      "TotalCost": 39
+    },
+    {
+      "PurchaseOrderID": 11548,
+      "DeliveryDate": "12/05/2018",
+      "Supplier": "Bioholding",
+      "MaterialID": "TMQ",
+      "MaterialName": "Tampo para Mesa Quadrada",
+      "Quantity": 500,
+      "TotalCost": 45
+    },
+    {
+      "PurchaseOrderID": 10325,
+      "DeliveryDate": "11/09/2018",
+      "Supplier": "Hottechi",
+      "MaterialID": "PRG",
+      "MaterialName": "Prego 10x10",
+      "Quantity": 1000,
+      "TotalCost": 120
+    },
+    {
+      "PurchaseOrderID": 10236,
+      "DeliveryDate": "11/03/2018",
+      "Supplier": "Ganjaflex",
+      "MaterialID": "GVT",
+      "MaterialName": "Gaveta",
+      "Quantity": 1500,
+      "TotalCost": 135
+    },
+    {
+      "PurchaseOrderID": 12362,
+      "DeliveryDate": "12/11/2018",
+      "Supplier": "Betatech",
+      "MaterialID": "PRG",
+      "MaterialName": "Prego 10x10",
+      "Quantity": 3000,
+      "TotalCost": 20
+    },
+    {
+      "PurchaseOrderID": 12025,
+      "DeliveryDate": "03/01/2018",
+      "Supplier": "Domzoom",
+      "MaterialID": "PRF",
+      "MaterialName": "Parafuso no 8",
+      "Quantity": 3000,
+      "TotalCost": 36
+    },
+    {
+      "PurchaseOrderID": 10248,
+      "DeliveryDate": "03/02/2018",
+      "Supplier": "Ontomedia",
+      "MaterialID": "PPM",
+      "MaterialName": "Pé para Mesa",
+      "Quantity": 250,
+      "TotalCost": 30
+    },
+    {
+      "PurchaseOrderID": 10251,
+      "DeliveryDate": "02/01/2018",
+      "Supplier": "Newex",
+      "MaterialID": "PPM",
+      "MaterialName": "Pé para Mesa",
+      "Quantity": 250,
+      "TotalCost": 39
+    }
+  ],
+  [
+    {
+      "SalesOrderID": 20583,
+      "DeliveryDate": "11/09/2018",
+      "Customer": "Zencorporation",
+      "MaterialID": "MQ2X2",
+      "MaterialName": "Mesa Quadrada 2m x 2m",
+      "Quantity": 16,
+      "TotalValue": 1600
+    },
+    {
+      "SalesOrderID": 26352,
+      "DeliveryDate": "11/03/2018",
+      "Customer": "Plusstrip",
+      "MaterialID": "MQ3X3",
+      "MaterialName": "Mesa Quadrada 3m x 3m",
+      "Quantity": 25,
+      "TotalValue": 2500
+    },
+    {
+      "SalesOrderID": 21548,
+      "DeliveryDate": "12/11/2018",
+      "Customer": "dambase",
+      "MaterialID": "MQ1X1",
+      "MaterialName": "Mesa Quadrada 1m x 1m",
+      "Quantity": 39,
+      "TotalValue": 3900
+    },
+    {
+      "SalesOrderID": 19125,
+      "DeliveryDate": "03/01/2018",
+      "Customer": "Toughzap",
+      "MaterialID": "MQ2X2",
+      "MaterialName": "Mesa Quadrada 2m x 2m",
+      "Quantity": 54,
+      "TotalValue": 5400
+    },
+    {
+      "SalesOrderID": 18425,
+      "DeliveryDate": "03/02/2018",
+      "Customer": "Codehow",
+      "MaterialID": "MECAJA",
+      "MaterialName": "Mesa com Cadeira Jantar",
+      "Quantity": 58,
+      "TotalValue": 5800
+    },
+    {
+      "SalesOrderID": 18144,
+      "DeliveryDate": "02/01/2018",
+      "Customer": "Zotware",
+      "MaterialID": "MS2X3",
+      "MaterialName": "Mesa Simples 2m x 3m",
+      "Quantity": 41,
+      "TotalValue": 4100
+    },
+    {
+      "SalesOrderID": 18526,
+      "DeliveryDate": "09/10/2018",
+      "Customer": "Statholdings",
+      "MaterialID": "ML3X2",
+      "MaterialName": "Mesa Luxo 3m x 2m",
+      "Quantity": 20,
+      "TotalValue": 2000
+    },
+    {
+      "SalesOrderID": 19132,
+      "DeliveryDate": "10/02/2018",
+      "Customer": "Conecom",
+      "MaterialID": "MQ2X2",
+      "MaterialName": "Mesa Quadrada 2m x 2m",
+      "Quantity": 10,
+      "TotalValue": 1000
+    },
+    {
+      "SalesOrderID": 22362,
+      "DeliveryDate": "10/07/2018",
+      "Customer": "Zathunicon",
+      "MaterialID": "MECAJA",
+      "MaterialName": "Mesa com Cadeira Jantar",
+      "Quantity": 15,
+      "TotalValue": 1500
+    }
+  ],
+  [
+    {
+      "WorkforceID": 1,
+      "Name": "Aline Velasques",
+      "Shift": "Turno A"
+    },
+    {
+      "WorkforceID": 2,
+      "Name": "Danilo Inês",
+      "Shift": "Turno B"
+    },
+    {
+      "WorkforceID": 3,
+      "Name": "Dina Granjeiro",
+      "Shift": "Turno C"
+    },
+    {
+      "WorkforceID": 4,
+      "Name": "Débora Pinhal",
+      "Shift": "Turno A"
+    },
+    {
+      "WorkforceID": 5,
+      "Name": "Eurico Moita",
+      "Shift": "Turno B"
+    },
+    {
+      "WorkforceID": 6,
+      "Name": "Humberto Braz",
+      "Shift": "Turno C"
+    },
+    {
+      "WorkforceID": 7,
+      "Name": "Iara Parracho",
+      "Shift": "Turno A"
+    },
+    {
+      "WorkforceID": 8,
+      "Name": "Jacir Piteira",
+      "Shift": "Turno B"
+    },
+    {
+      "WorkforceID": 9,
+      "Name": "Ludovico Pino",
+      "Shift": "Turno C"
+    },
+    {
+      "WorkforceID": 10,
+      "Name": "Mamede Quintero",
+      "Shift": "Turno A"
+    },
+    {
+      "WorkforceID": 11,
+      "Name": "Matias Pedroso",
+      "Shift": "Turno B"
+    },
+    {
+      "WorkforceID": 12,
+      "Name": "Micael Díaz",
+      "Shift": "Turno C"
+    },
+    {
+      "WorkforceID": 13,
+      "Name": "Milena Vargas",
+      "Shift": "Turno A"
+    },
+    {
+      "WorkforceID": 14,
+      "Name": "Olivia Avelar",
+      "Shift": "Turno B"
+    }
+  ]
+]
